@@ -1,1 +1,11 @@
-Python
+
+
+
+
+# Environments
+.Python
+.env
+.venv
+env/
+venv/
+env.bak/
